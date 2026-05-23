@@ -1,6 +1,6 @@
 {
-  "name": "DEVIL GPT",
-  "description": "Your AI-Powered Life OS with expense tracking, cash budgets, task lists, smart notes, custom reminders, and a hyper-fast conversational AI agent.",
+  "name": "AGAI BD",
+  "description": "The official mobile app for AGAI BD, hosted at https://agaibd.netlify.app/",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
