@@ -1,0 +1,6 @@
+{
+  "name": "DEVIL GPT",
+  "description": "Your AI-Powered Life OS with expense tracking, cash budgets, task lists, smart notes, custom reminders, and a hyper-fast conversational AI agent.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
